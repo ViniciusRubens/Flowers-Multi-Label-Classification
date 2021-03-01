@@ -3,7 +3,7 @@
   <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/CAT%20AND%20DOG%20CLASSIFICATION%20Logotipo.png alt="FLOWER MULTI-LABEL CLASSIFICATION" width="200">
 <br>
 <br>
-FLOER MULTI-LABEL CLASSIFICATION WITH TENSORFLOW
+FLOWER MULTI-LABEL CLASSIFICATION WITH TENSORFLOW
 </h1>
 
 <p align="justify">
