@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/CAT%20AND%20DOG%20CLASSIFICATION%20Logotipo.png alt="FLOWER MULTI-LABEL CLASSIFICATION" width="200">
+  <img src=https://github.com/ViniciusRubens/Flowers-Multi-Label-Classification/blob/main/Images/LOGISTIC%20REGRESSION%20Logotipo.png alt="FLOWER MULTI-LABEL CLASSIFICATION" width="200">
 <br>
 <br>
 FLOWER MULTI-LABEL CLASSIFICATION WITH TENSORFLOW
